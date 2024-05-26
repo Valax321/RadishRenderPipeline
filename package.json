@@ -1,0 +1,26 @@
+{
+  "name": "com.radish.render-pipeline",
+  "displayName": "Radish Render Pipeline",
+  "author": {
+    "name": "Audrey Castillo",
+    "email": "valax321@gmail.com",
+    "url": "https://audrey.zone/"
+  },
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Render Pipeline for Radish Games",
+  "keywords": [
+    "Rendering",
+    "Graphics"
+  ],
+  "license": "MIT",
+  "category": "Rendering",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Valax321/RadishRenderPipeline.git"
+  },
+  "dependencies": {
+    "com.radish.common-tools": "3.0.0",
+    "com.unity.render-pipelines.core": "17.0.0"
+  }
+}
